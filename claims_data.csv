@@ -1,0 +1,51 @@
+claim_id,member_id,member_name,age,state,plan_name,plan_type,monthly_premium,claim_amount,claim_date,status
+1,101,Member_1,61,CA,Advantage_A,Advantage,0,1674,2024-07-27,Pending
+2,102,Member_2,63,OH,Medigap_B,Medigap,150,1198,2024-10-14,Pending
+3,103,Member_3,70,OH,Advantage_B,Advantage,50,376,2024-06-21,Denied
+4,104,Member_4,70,TX,Advantage_B,Advantage,50,103,2024-08-11,Approved
+5,105,Member_5,79,FL,Advantage_A,Advantage,0,113,2024-06-10,Denied
+6,106,Member_6,74,OH,Advantage_A,Advantage,0,289,2024-12-07,Approved
+7,107,Member_7,64,OH,Medigap_A,Medigap,120,1966,2024-08-08,Denied
+8,108,Member_8,75,CA,Medigap_B,Medigap,150,1815,2024-01-19,Pending
+9,109,Member_9,70,NY,Medigap_B,Medigap,150,523,2024-11-07,Denied
+10,110,Member_10,76,NY,Medigap_A,Medigap,120,125,2024-07-22,Denied
+11,111,Member_11,76,FL,DrugPlan_D,Part D,30,1407,2024-12-07,Denied
+12,112,Member_12,75,NY,Medigap_B,Medigap,150,867,2024-09-18,Approved
+13,113,Member_13,84,TX,Advantage_A,Advantage,0,1971,2024-09-06,Denied
+14,114,Member_14,68,TX,Medigap_A,Medigap,120,790,2024-10-10,Pending
+15,115,Member_15,62,FL,Medigap_B,Medigap,150,1273,2024-06-21,Approved
+16,116,Member_16,66,NY,Advantage_A,Advantage,0,1803,2024-11-17,Pending
+17,117,Member_17,60,CA,Advantage_B,Advantage,50,930,2024-09-29,Denied
+18,118,Member_18,83,OH,Medigap_A,Medigap,120,1113,2024-11-18,Denied
+19,119,Member_19,67,NY,Medigap_B,Medigap,150,463,2024-03-19,Denied
+20,120,Member_20,74,FL,Medigap_B,Medigap,150,190,2024-01-06,Approved
+21,121,Member_21,74,TX,Advantage_A,Advantage,0,625,2024-06-29,Denied
+22,122,Member_22,68,FL,Medigap_B,Medigap,150,100,2024-02-25,Denied
+23,123,Member_23,62,NY,Medigap_A,Medigap,120,1548,2024-02-15,Approved
+24,124,Member_24,73,OH,DrugPlan_D,Part D,30,873,2024-02-07,Denied
+25,125,Member_25,82,FL,Advantage_A,Advantage,0,760,2024-05-14,Pending
+26,126,Member_26,61,NY,Medigap_A,Medigap,120,948,2024-06-27,Approved
+27,127,Member_27,80,TX,Medigap_B,Medigap,150,231,2024-12-13,Approved
+28,128,Member_28,71,TX,Advantage_A,Advantage,0,1789,2024-11-17,Approved
+29,129,Member_29,84,NY,Medigap_B,Medigap,150,1200,2024-06-05,Approved
+30,130,Member_30,80,CA,Medigap_B,Medigap,150,854,2024-03-05,Denied
+31,131,Member_31,70,NY,Advantage_A,Advantage,0,1389,2024-03-26,Denied
+32,132,Member_32,72,FL,Advantage_A,Advantage,0,1618,2024-03-10,Pending
+33,133,Member_33,81,OH,Medigap_A,Medigap,120,1021,2024-12-30,Denied
+34,134,Member_34,74,CA,Medigap_B,Medigap,150,1720,2024-01-15,Approved
+35,135,Member_35,76,CA,DrugPlan_D,Part D,30,1154,2024-10-11,Approved
+36,136,Member_36,70,NY,Advantage_A,Advantage,0,1217,2024-07-07,Approved
+37,137,Member_37,78,CA,Advantage_A,Advantage,0,656,2024-09-16,Approved
+38,138,Member_38,66,CA,Medigap_A,Medigap,120,915,2024-01-23,Denied
+39,139,Member_39,62,TX,DrugPlan_D,Part D,30,508,2024-01-09,Approved
+40,140,Member_40,68,NY,Advantage_B,Advantage,50,274,2024-11-03,Pending
+41,141,Member_41,62,CA,DrugPlan_D,Part D,30,1201,2024-03-09,Denied
+42,142,Member_42,64,FL,Medigap_B,Medigap,150,1596,2024-07-22,Approved
+43,143,Member_43,68,NY,Medigap_B,Medigap,150,797,2024-07-21,Approved
+44,144,Member_44,76,TX,DrugPlan_D,Part D,30,1400,2024-01-04,Denied
+45,145,Member_45,79,FL,Medigap_A,Medigap,120,1524,2024-10-26,Approved
+46,146,Member_46,82,OH,Medigap_A,Medigap,120,1864,2024-08-23,Pending
+47,147,Member_47,81,FL,Medigap_A,Medigap,120,834,2024-04-20,Pending
+48,148,Member_48,70,TX,Advantage_B,Advantage,50,883,2024-02-01,Pending
+49,149,Member_49,72,NY,Medigap_A,Medigap,120,1798,2024-03-30,Denied
+50,150,Member_50,72,CA,Advantage_A,Advantage,0,1987,2024-05-31,Approved
